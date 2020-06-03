@@ -1,3 +1,4 @@
 CAT: Hola! el meu nom és Jordi i vull entrar a el "Developer Program IT Academy".
 ESP: Hola! mi nombre es Jorge y quiero ingresar al "Developer Program IT Academy".
 PTG: Olá! Meu nome é Jorge e quero entrar na "Developer Program IT Academy".
+ENG: Hello! My name is George and I want to be admitted to the "Developer Program IT Academy".
